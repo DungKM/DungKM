@@ -8,14 +8,7 @@ Hello 🙋‍♂️ This is my Github profile information, it includes my skills
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DungKM&theme=city_light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DungKM&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
 
-![](https://github-trophies.vercel.app/?username=DungKM&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4)
-
-![](https://www.facebook.com/DUNGHA2300/)
-
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 
 

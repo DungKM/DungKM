@@ -3,6 +3,10 @@
 
 ## 🎧 
 <a href="https://www.youtube.com/watch?v=pDddlvCfTiw&list=RDGMEMHDXYb1_DDSgDsobPsOFxpAVMpDddlvCfTiw&start_radio=1" target="_blank">
-  <img src="https://www.musicweek.com/cimages/409cc96a835f2f370af1841fba3997af.jpeg" alt="Music" width="400"/>
+  <img src="https://www.musicweek.com/cimages/409cc96a835f2f370af1841fba3997af.jpeg" alt="Music" width="500"/>
 </a>
+<a href="https://www.youtube.com/watch?v=6ONRf7h3Mdk&list=RD6ONRf7h3Mdk&start_radio=1" target="_blank">
+  <img src="https://www.rollingstone.com/wp-content/uploads/2023/11/Travis-Scott-Talks-Astroworld.jpg?w=1581&h=1054&crop=1" alt="Music" width="500"/>
+</a>
+
 
